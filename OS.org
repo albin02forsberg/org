@@ -13,4 +13,38 @@
 ** Privliges
 ** Absolute and Relative Paths
 ** Linux Commands and the Shell
-* FreeRTOS
+* RTOS
+** Real-Time OS
+A real-time operating system should be:
+- Event driven
+- Deteministic
+- Resource constrained
+  - Clock speed
+  - Memory
+  - Energy consumption
+
+There are two types of real time operating systems, the first one is a soft *real-time response*:
+- Deteministic
+- Predictable
+- Non-critical
+- Acceptable if deadline is missed
+- Examples
+  - Video streaming
+  - online gaming
+  - sensor reading
+
+The other one is a so called *Hard real-time response*:
+- Deteministic
+- Predictable
+- Critical
+- Fatal system id deadline is not met
+- Examples
+  - Aerospace
+  - Medical
+  - Car-driving applications
+
+A RTOS needs to guarantee deadlines of tasks to work properly. With this it needs to avoid software that takes a lot of CPU time.
+
+In general, RTOS does not have a graphical interface, because it takes too much CPU time.
+
+It uses a priority based scheduling (With round Robin)
