@@ -1,0 +1,16 @@
+#+title: OS - A Nightly Study...!
+
+* Bases
+* Operating Systems Principles
+** Process
+** Thread
+** Scheduling
+** Mutex
+** Semaphores
+** CPU Utilization
+* Linux
+** Directories and Files
+** Privliges
+** Absolute and Relative Paths
+** Linux Commands and the Shell
+* FreeRTOS
