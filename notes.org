@@ -1,0 +1,14 @@
+* Inbox
+** [2023-12-11 mån]
+
+This is a test to see how this works, and also how good I am
+at using dvorak when it comes to typing!
+** [2023-12-11 mån]
+
+** Todo for the examination on 2023-12-12
+- Scheduling
+- Priorities
+- Different bases
+- gcc and make
+- Unix
+- Rtos!
