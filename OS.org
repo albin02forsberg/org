@@ -48,3 +48,24 @@ A RTOS needs to guarantee deadlines of tasks to work properly. With this it need
 In general, RTOS does not have a graphical interface, because it takes too much CPU time.
 
 It uses a priority based scheduling (With round Robin)
+
+When a task is blocked in a real time operating systemw we can have a priority invercion:
+
+    [[./images/pio1.png]]
+
+    If process p blocks process q, then q runs with priority!
+
+    [[./images/pio2.png]]
+
+** FreeRTOS
+- FreeRTOS is written mainly in C with several parts in assembly
+- The code is easy to read and the functions are close to POSIX threads
+- A blinking example for two threads is given below
+
+  The different states are defined here:
+
+  [[./images/fos.png]]
+
+  The task priorities can be changed in a FreeRTOS project, each task is assigned a priority from 0 (~configMAX_PRIORITIES - 1~) where ~configMAX_PRIORITIES~ is defined within =FreeRTOSConfig.h=.
+
+  FreeRTOS also supports semaphores and mutexses.
