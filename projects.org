@@ -1,0 +1,5 @@
+* org
+** Notes
+*** [2023-12-14 Thu 23:28]
+
+ [[file:~/org/OS.org::*FreeRTOS][FreeRTOS]]
