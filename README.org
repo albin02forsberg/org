@@ -1,2 +1,2 @@
-# org
-org notes!
+* org
+This repository contains all my org notes from 2023-12-15 and forward!
