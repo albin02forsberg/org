@@ -1,2 +1,13 @@
 * org
 This repository contains all my org notes from 2023-12-15 and forward!
+
+** Structure
+As mentioned above, this repo contains all my notes, everything from school to the
+work I do as a football "~Manager~".
+
+The current structure for simplizity is:
+
+- MIF
+  - Contains all document that are related to my work as a football everything
+- JU
+  - Stands for Jonkoping University, and includes all of my notes from my schoolwork from the date mentioned above
