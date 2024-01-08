@@ -1,1 +1,8 @@
 #+title: Sammanställning MIF Domare 2023
+
+
+* Domarlista
+
+| Namn          | April | Maj | Juni | Juli | Augusti | September | Oktober |
+|---------------+-------+-----+------+------+---------+-----------+---------|
+| Melker Svaren |       |     |      |      |         |           |         |
