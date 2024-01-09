@@ -1,0 +1,6 @@
+* Inbox
+** [ ]
+** [ ] Clean up on github
+** [X] Clean up on github
+** [X] Test
+** [X] Clean up in github
